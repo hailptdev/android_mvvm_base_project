@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Trend Ai</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <string name="CONSUMER_KEY">your_consumer_key</string>
+    <string name="CONSUMER_SECRET">your_consumer_secret</string>
+</resources>
